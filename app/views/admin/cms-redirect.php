@@ -1,0 +1,1 @@
+<?php header("Location: /asignment_web/admin/cmsCategory"); ?>
